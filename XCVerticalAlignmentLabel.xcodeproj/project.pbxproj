@@ -15,7 +15,7 @@
 		26F86F821B3BA9B600791E50 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 26F86F801B3BA9B600791E50 /* LaunchScreen.xib */; };
 		26F86F8E1B3BA9B600791E50 /* XCVerticalAlignmentLabelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 26F86F8D1B3BA9B600791E50 /* XCVerticalAlignmentLabelTests.m */; };
 		26F86F9A1B3BA9CC00791E50 /* XCVerticalAlignmentLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 26F86F991B3BA9CC00791E50 /* XCVerticalAlignmentLabel.m */; };
-		26F86F9C1B3BC64100791E50 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 26F86F9B1B3BC64100791E50 /* 1.png */; };
+		26F86F9C1B3BC64100791E50 /* Effect.png in Resources */ = {isa = PBXBuildFile; fileRef = 26F86F9B1B3BC64100791E50 /* Effect.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +44,7 @@
 		26F86F8D1B3BA9B600791E50 /* XCVerticalAlignmentLabelTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XCVerticalAlignmentLabelTests.m; sourceTree = "<group>"; };
 		26F86F981B3BA9CC00791E50 /* XCVerticalAlignmentLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCVerticalAlignmentLabel.h; sourceTree = "<group>"; };
 		26F86F991B3BA9CC00791E50 /* XCVerticalAlignmentLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCVerticalAlignmentLabel.m; sourceTree = "<group>"; };
-		26F86F9B1B3BC64100791E50 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		26F86F9B1B3BC64100791E50 /* Effect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Effect.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +102,7 @@
 		26F86F711B3BA9B600791E50 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				26F86F9B1B3BC64100791E50 /* 1.png */,
+				26F86F9B1B3BC64100791E50 /* Effect.png */,
 				26F86F721B3BA9B600791E50 /* Info.plist */,
 				26F86F731B3BA9B600791E50 /* main.m */,
 			);
@@ -216,7 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				26F86F7D1B3BA9B600791E50 /* Main.storyboard in Resources */,
-				26F86F9C1B3BC64100791E50 /* 1.png in Resources */,
+				26F86F9C1B3BC64100791E50 /* Effect.png in Resources */,
 				26F86F821B3BA9B600791E50 /* LaunchScreen.xib in Resources */,
 				26F86F7F1B3BA9B600791E50 /* Images.xcassets in Resources */,
 			);
