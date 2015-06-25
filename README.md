@@ -4,3 +4,7 @@ XCVerticalAlignmentLabel * label = [[XCVerticalAlignmentLabel alloc]initWithFram
 [label setText:@"hello world!"];
 [label setVerticalAlignment:XCVerticalAlignmentBottom]; //default top
 ```
+
+<img src= "https://github.com/recx/XCVerticalAlignmentLabel/blob/master/XCVerticalAlignmentLabel/Effect.png?raw=true" width = '30%'>
+
+
