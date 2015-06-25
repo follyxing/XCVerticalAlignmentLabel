@@ -5,6 +5,6 @@ XCVerticalAlignmentLabel * label = [[XCVerticalAlignmentLabel alloc]initWithFram
 [label setVerticalAlignment:XCVerticalAlignmentTop]; //default top
 ```
 
-<img src= "https://github.com/recx/XCVerticalAlignmentLabel/blob/master/XCVerticalAlignmentLabel/Effect.png?raw=true" width = '30%'">
+<img src= "https://github.com/recx/XCVerticalAlignmentLabel/blob/master/XCVerticalAlignmentLabel/topalignment.png?raw=true" width = '30%'">
 
 
