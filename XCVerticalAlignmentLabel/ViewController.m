@@ -19,7 +19,7 @@
     XCVerticalAlignmentLabel * label = [[XCVerticalAlignmentLabel alloc]initWithFrame:CGRectMake(10, 50,100 , 100)];
     [label setBackgroundColor:[UIColor colorWithRed:255/255.0 green:0 blue:0 alpha:0.3]];
     [label setText:@"hello world!"];
-    [label setVerticalAlignment:XCVerticalAlignmentBottom];
+    [label setVerticalAlignment:XCVerticalAlignmentTop];
     [self.view addSubview:label];
 }
 
